@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FB_login_Checking</string>
+    <string name="facebook_app_id">876395595839959</string>
+    <string name="login_error"> login_error</string>
+</resources>
